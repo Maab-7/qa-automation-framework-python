@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-**Professional Full Stack QA Automation Framework** built with Python for comprehensive testing across Web, API, Mobile, and Load Testing. This showcase project demonstrates enterprise-level automation practices, designed for the Restful-Booker API.
+**Professional QA Automation Framework** built with Python for comprehensive testing across Web, API, Mobile, and Load Testing. This showcase project demonstrates enterprise-level automation practices, designed for the Restful-Booker API.
 
 **Status:** ✅ All tests passing | **Test Count:** 45+ | **Coverage:** Full Stack | **Last Updated:** May 2026
 
